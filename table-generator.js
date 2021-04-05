@@ -1,6 +1,6 @@
 
 let a = '';
-for (let i = 10; i < 100; i+= 1) {
-  a += `| ${i}               | ×           | ×         |\n`
+for (let i = 0; i < 100; i+= 1) {
+  a += `| ${i}               | ×           | ×         | [here](/${i}.cpp) |\n`
 }
 console.log(a);
