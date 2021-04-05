@@ -11,10 +11,10 @@ This is a repo for me to keep track of my progress through these challenges. To 
 | Challenge Number | cpp Created | Completed | Link to cpp File |
 | ---------------- | ----------- | --------- | ---------------  |
 | 1                | ✓           | ✓         | [here](/1.cpp)   |
-| 2                | ×           | ×         | [here](/2.cpp)   |
-| 3                | ×           | ×         | [here](/3.cpp)   |
-| 4                | ×           | ×         | [here](/4.cpp)   |
-| 5                | ×           | ×         | [here](/5.cpp)   |
+| 2                | ✓           | ×         | [here](/2.cpp)   |
+| 3                | ✓           | ×         | [here](/3.cpp)   |
+| 4                | ✓           | ×         | [here](/4.cpp)   |
+| 5                | ✓           | ×         | [here](/5.cpp)   |
 | 6                | ×           | ×         | [here](/6.cpp)   |
 | 7                | ×           | ×         | [here](/7.cpp)   |
 | 8                | ×           | ×         | [here](/8.cpp)   |
