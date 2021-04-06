@@ -8,105 +8,105 @@ https://projecteuler.net/archives
 This is a repo for me to keep track of my progress through these challenges. To respect the rules, if I ever progres far enough, this will only contain challenges 1-100. I also hope to comment and document my learning / solutions in each file.
 ## Completed Challenges
 
-| Challenge Number | cpp Created | Completed | Link to cpp File |
-| ---------------- | ----------- | --------- | ---------------  |
-| 1                | ✓           | ✓         | [here](/1.cpp)   |
-| 2                | ✓           | ×         | [here](/2.cpp)   |
-| 3                | ✓           | ×         | [here](/3.cpp)   |
-| 4                | ✓           | ×         | [here](/4.cpp)   |
-| 5                | ✓           | ×         | [here](/5.cpp)   |
-| 6                | ×           | ×         | [here](/6.cpp)   |
-| 7                | ×           | ×         | [here](/7.cpp)   |
-| 8                | ×           | ×         | [here](/8.cpp)   |
-| 9                | ×           | ×         | [here](/9.cpp)   |
-| 10               | ×           | ×         | [here](/10.cpp)  |
-| 11               | ×           | ×         | [here](/11.cpp)  |
-| 12               | ×           | ×         | [here](/12.cpp)  |
-| 13               | ×           | ×         | [here](/13.cpp)  |
-| 14               | ×           | ×         | [here](/14.cpp)  |
-| 15               | ×           | ×         | [here](/15.cpp)  |
-| 16               | ×           | ×         | [here](/16.cpp)  |
-| 17               | ×           | ×         | [here](/17.cpp)  |
-| 18               | ×           | ×         | [here](/18.cpp)  |
-| 19               | ×           | ×         | [here](/19.cpp)  |
-| 20               | ×           | ×         | [here](/20.cpp)  |
-| 21               | ×           | ×         | [here](/21.cpp)  |
-| 22               | ×           | ×         | [here](/22.cpp)  |
-| 23               | ×           | ×         | [here](/23.cpp)  |
-| 24               | ×           | ×         | [here](/24.cpp)  |
-| 25               | ×           | ×         | [here](/25.cpp)  |
-| 26               | ×           | ×         | [here](/26.cpp)  |
-| 27               | ×           | ×         | [here](/27.cpp)  |
-| 28               | ×           | ×         | [here](/28.cpp)  |
-| 29               | ×           | ×         | [here](/29.cpp)  |
-| 30               | ×           | ×         | [here](/30.cpp)  |
-| 31               | ×           | ×         | [here](/31.cpp)  |
-| 32               | ×           | ×         | [here](/32.cpp)  |
-| 33               | ×           | ×         | [here](/33.cpp)  |
-| 34               | ×           | ×         | [here](/34.cpp)  |
-| 35               | ×           | ×         | [here](/35.cpp)  |
-| 36               | ×           | ×         | [here](/36.cpp)  |
-| 37               | ×           | ×         | [here](/37.cpp)  |
-| 38               | ×           | ×         | [here](/38.cpp)  |
-| 39               | ×           | ×         | [here](/39.cpp)  |
-| 40               | ×           | ×         | [here](/40.cpp)  |
-| 41               | ×           | ×         | [here](/41.cpp)  |
-| 42               | ×           | ×         | [here](/42.cpp)  |
-| 43               | ×           | ×         | [here](/43.cpp)  |
-| 44               | ×           | ×         | [here](/44.cpp)  |
-| 45               | ×           | ×         | [here](/45.cpp)  |
-| 46               | ×           | ×         | [here](/46.cpp)  |
-| 47               | ×           | ×         | [here](/47.cpp)  |
-| 48               | ×           | ×         | [here](/48.cpp)  |
-| 49               | ×           | ×         | [here](/49.cpp)  |
-| 50               | ×           | ×         | [here](/50.cpp)  |
-| 51               | ×           | ×         | [here](/51.cpp)  |
-| 52               | ×           | ×         | [here](/52.cpp)  |
-| 53               | ×           | ×         | [here](/53.cpp)  |
-| 54               | ×           | ×         | [here](/54.cpp)  |
-| 55               | ×           | ×         | [here](/55.cpp)  |
-| 56               | ×           | ×         | [here](/56.cpp)  |
-| 57               | ×           | ×         | [here](/57.cpp)  |
-| 58               | ×           | ×         | [here](/58.cpp)  |
-| 59               | ×           | ×         | [here](/59.cpp)  |
-| 60               | ×           | ×         | [here](/60.cpp)  |
-| 61               | ×           | ×         | [here](/61.cpp)  |
-| 62               | ×           | ×         | [here](/62.cpp)  |
-| 63               | ×           | ×         | [here](/63.cpp)  |
-| 64               | ×           | ×         | [here](/64.cpp)  |
-| 65               | ×           | ×         | [here](/65.cpp)  |
-| 66               | ×           | ×         | [here](/66.cpp)  |
-| 67               | ×           | ×         | [here](/67.cpp)  |
-| 68               | ×           | ×         | [here](/68.cpp)  |
-| 69               | ×           | ×         | [here](/69.cpp)  |
-| 70               | ×           | ×         | [here](/70.cpp)  |
-| 71               | ×           | ×         | [here](/71.cpp)  |
-| 72               | ×           | ×         | [here](/72.cpp)  |
-| 73               | ×           | ×         | [here](/73.cpp)  |
-| 74               | ×           | ×         | [here](/74.cpp)  |
-| 75               | ×           | ×         | [here](/75.cpp)  |
-| 76               | ×           | ×         | [here](/76.cpp)  |
-| 77               | ×           | ×         | [here](/77.cpp)  |
-| 78               | ×           | ×         | [here](/78.cpp)  |
-| 79               | ×           | ×         | [here](/79.cpp)  |
-| 80               | ×           | ×         | [here](/80.cpp)  |
-| 81               | ×           | ×         | [here](/81.cpp)  |
-| 82               | ×           | ×         | [here](/82.cpp)  |
-| 83               | ×           | ×         | [here](/83.cpp)  |
-| 84               | ×           | ×         | [here](/84.cpp)  |
-| 85               | ×           | ×         | [here](/85.cpp)  |
-| 86               | ×           | ×         | [here](/86.cpp)  |
-| 87               | ×           | ×         | [here](/87.cpp)  |
-| 88               | ×           | ×         | [here](/88.cpp)  |
-| 89               | ×           | ×         | [here](/89.cpp)  |
-| 90               | ×           | ×         | [here](/90.cpp)  |
-| 91               | ×           | ×         | [here](/91.cpp)  |
-| 92               | ×           | ×         | [here](/92.cpp)  |
-| 93               | ×           | ×         | [here](/93.cpp)  |
-| 94               | ×           | ×         | [here](/94.cpp)  |
-| 95               | ×           | ×         | [here](/95.cpp)  |
-| 96               | ×           | ×         | [here](/96.cpp)  |
-| 97               | ×           | ×         | [here](/97.cpp)  |
-| 98               | ×           | ×         | [here](/98.cpp)  |
-| 99               | ×           | ×         | [here](/99.cpp)  |
-| 100              | ×           | ×         | [here](/100.cpp) |
+| Challenge Number | cpp Created | Completed | Link to cpp File | Link to Challenge                                 |
+| ---------------- | ----------- | --------- | ---------------- | ------------------------------------------------- |
+| 1                | ✓           | ✓         | [file](/1.cpp)   | [challenge](https://projecteuler.net/problem=1)   |
+| 2                | ✓           | ✓         | [file](/2.cpp)   | [challenge](https://projecteuler.net/problem=2)   |
+| 3                | ✓           | ×         | [file](/3.cpp)   | [challenge](https://projecteuler.net/problem=3)   |
+| 4                | ✓           | ×         | [file](/4.cpp)   | [challenge](https://projecteuler.net/problem=4)   |
+| 5                | ✓           | ×         | [file](/5.cpp)   | [challenge](https://projecteuler.net/problem=5)   |
+| 6                | ×           | ×         | [file](/6.cpp)   | [challenge](https://projecteuler.net/problem=6)   |
+| 7                | ×           | ×         | [file](/7.cpp)   | [challenge](https://projecteuler.net/problem=7)   |
+| 8                | ×           | ×         | [file](/8.cpp)   | [challenge](https://projecteuler.net/problem=8)   |
+| 9                | ×           | ×         | [file](/9.cpp)   | [challenge](https://projecteuler.net/problem=9)   |
+| 10               | ×           | ×         | [file](/10.cpp)  | [challenge](https://projecteuler.net/problem=10)  |
+| 11               | ×           | ×         | [file](/11.cpp)  | [challenge](https://projecteuler.net/problem=11)  |
+| 12               | ×           | ×         | [file](/12.cpp)  | [challenge](https://projecteuler.net/problem=12)  |
+| 13               | ×           | ×         | [file](/13.cpp)  | [challenge](https://projecteuler.net/problem=13)  |
+| 14               | ×           | ×         | [file](/14.cpp)  | [challenge](https://projecteuler.net/problem=14)  |
+| 15               | ×           | ×         | [file](/15.cpp)  | [challenge](https://projecteuler.net/problem=15)  |
+| 16               | ×           | ×         | [file](/16.cpp)  | [challenge](https://projecteuler.net/problem=16)  |
+| 17               | ×           | ×         | [file](/17.cpp)  | [challenge](https://projecteuler.net/problem=17)  |
+| 18               | ×           | ×         | [file](/18.cpp)  | [challenge](https://projecteuler.net/problem=18)  |
+| 19               | ×           | ×         | [file](/19.cpp)  | [challenge](https://projecteuler.net/problem=19)  |
+| 20               | ×           | ×         | [file](/20.cpp)  | [challenge](https://projecteuler.net/problem=20)  |
+| 21               | ×           | ×         | [file](/21.cpp)  | [challenge](https://projecteuler.net/problem=21)  |
+| 22               | ×           | ×         | [file](/22.cpp)  | [challenge](https://projecteuler.net/problem=22)  |
+| 23               | ×           | ×         | [file](/23.cpp)  | [challenge](https://projecteuler.net/problem=23)  |
+| 24               | ×           | ×         | [file](/24.cpp)  | [challenge](https://projecteuler.net/problem=24)  |
+| 25               | ×           | ×         | [file](/25.cpp)  | [challenge](https://projecteuler.net/problem=25)  |
+| 26               | ×           | ×         | [file](/26.cpp)  | [challenge](https://projecteuler.net/problem=26)  |
+| 27               | ×           | ×         | [file](/27.cpp)  | [challenge](https://projecteuler.net/problem=27)  |
+| 28               | ×           | ×         | [file](/28.cpp)  | [challenge](https://projecteuler.net/problem=28)  |
+| 29               | ×           | ×         | [file](/29.cpp)  | [challenge](https://projecteuler.net/problem=29)  |
+| 30               | ×           | ×         | [file](/30.cpp)  | [challenge](https://projecteuler.net/problem=30)  |
+| 31               | ×           | ×         | [file](/31.cpp)  | [challenge](https://projecteuler.net/problem=31)  |
+| 32               | ×           | ×         | [file](/32.cpp)  | [challenge](https://projecteuler.net/problem=32)  |
+| 33               | ×           | ×         | [file](/33.cpp)  | [challenge](https://projecteuler.net/problem=33)  |
+| 34               | ×           | ×         | [file](/34.cpp)  | [challenge](https://projecteuler.net/problem=34)  |
+| 35               | ×           | ×         | [file](/35.cpp)  | [challenge](https://projecteuler.net/problem=35)  |
+| 36               | ×           | ×         | [file](/36.cpp)  | [challenge](https://projecteuler.net/problem=36)  |
+| 37               | ×           | ×         | [file](/37.cpp)  | [challenge](https://projecteuler.net/problem=37)  |
+| 38               | ×           | ×         | [file](/38.cpp)  | [challenge](https://projecteuler.net/problem=38)  |
+| 39               | ×           | ×         | [file](/39.cpp)  | [challenge](https://projecteuler.net/problem=39)  |
+| 40               | ×           | ×         | [file](/40.cpp)  | [challenge](https://projecteuler.net/problem=40)  |
+| 41               | ×           | ×         | [file](/41.cpp)  | [challenge](https://projecteuler.net/problem=41)  |
+| 42               | ×           | ×         | [file](/42.cpp)  | [challenge](https://projecteuler.net/problem=42)  |
+| 43               | ×           | ×         | [file](/43.cpp)  | [challenge](https://projecteuler.net/problem=43)  |
+| 44               | ×           | ×         | [file](/44.cpp)  | [challenge](https://projecteuler.net/problem=44)  |
+| 45               | ×           | ×         | [file](/45.cpp)  | [challenge](https://projecteuler.net/problem=45)  |
+| 46               | ×           | ×         | [file](/46.cpp)  | [challenge](https://projecteuler.net/problem=46)  |
+| 47               | ×           | ×         | [file](/47.cpp)  | [challenge](https://projecteuler.net/problem=47)  |
+| 48               | ×           | ×         | [file](/48.cpp)  | [challenge](https://projecteuler.net/problem=48)  |
+| 49               | ×           | ×         | [file](/49.cpp)  | [challenge](https://projecteuler.net/problem=49)  |
+| 50               | ×           | ×         | [file](/50.cpp)  | [challenge](https://projecteuler.net/problem=50)  |
+| 51               | ×           | ×         | [file](/51.cpp)  | [challenge](https://projecteuler.net/problem=51)  |
+| 52               | ×           | ×         | [file](/52.cpp)  | [challenge](https://projecteuler.net/problem=52)  |
+| 53               | ×           | ×         | [file](/53.cpp)  | [challenge](https://projecteuler.net/problem=53)  |
+| 54               | ×           | ×         | [file](/54.cpp)  | [challenge](https://projecteuler.net/problem=54)  |
+| 55               | ×           | ×         | [file](/55.cpp)  | [challenge](https://projecteuler.net/problem=55)  |
+| 56               | ×           | ×         | [file](/56.cpp)  | [challenge](https://projecteuler.net/problem=56)  |
+| 57               | ×           | ×         | [file](/57.cpp)  | [challenge](https://projecteuler.net/problem=57)  |
+| 58               | ×           | ×         | [file](/58.cpp)  | [challenge](https://projecteuler.net/problem=58)  |
+| 59               | ×           | ×         | [file](/59.cpp)  | [challenge](https://projecteuler.net/problem=59)  |
+| 60               | ×           | ×         | [file](/60.cpp)  | [challenge](https://projecteuler.net/problem=60)  |
+| 61               | ×           | ×         | [file](/61.cpp)  | [challenge](https://projecteuler.net/problem=61)  |
+| 62               | ×           | ×         | [file](/62.cpp)  | [challenge](https://projecteuler.net/problem=62)  |
+| 63               | ×           | ×         | [file](/63.cpp)  | [challenge](https://projecteuler.net/problem=63)  |
+| 64               | ×           | ×         | [file](/64.cpp)  | [challenge](https://projecteuler.net/problem=64)  |
+| 65               | ×           | ×         | [file](/65.cpp)  | [challenge](https://projecteuler.net/problem=65)  |
+| 66               | ×           | ×         | [file](/66.cpp)  | [challenge](https://projecteuler.net/problem=66)  |
+| 67               | ×           | ×         | [file](/67.cpp)  | [challenge](https://projecteuler.net/problem=67)  |
+| 68               | ×           | ×         | [file](/68.cpp)  | [challenge](https://projecteuler.net/problem=68)  |
+| 69               | ×           | ×         | [file](/69.cpp)  | [challenge](https://projecteuler.net/problem=69)  |
+| 70               | ×           | ×         | [file](/70.cpp)  | [challenge](https://projecteuler.net/problem=70)  |
+| 71               | ×           | ×         | [file](/71.cpp)  | [challenge](https://projecteuler.net/problem=71)  |
+| 72               | ×           | ×         | [file](/72.cpp)  | [challenge](https://projecteuler.net/problem=72)  |
+| 73               | ×           | ×         | [file](/73.cpp)  | [challenge](https://projecteuler.net/problem=73)  |
+| 74               | ×           | ×         | [file](/74.cpp)  | [challenge](https://projecteuler.net/problem=74)  |
+| 75               | ×           | ×         | [file](/75.cpp)  | [challenge](https://projecteuler.net/problem=75)  |
+| 76               | ×           | ×         | [file](/76.cpp)  | [challenge](https://projecteuler.net/problem=76)  |
+| 77               | ×           | ×         | [file](/77.cpp)  | [challenge](https://projecteuler.net/problem=77)  |
+| 78               | ×           | ×         | [file](/78.cpp)  | [challenge](https://projecteuler.net/problem=78)  |
+| 79               | ×           | ×         | [file](/79.cpp)  | [challenge](https://projecteuler.net/problem=79)  |
+| 80               | ×           | ×         | [file](/80.cpp)  | [challenge](https://projecteuler.net/problem=80)  |
+| 81               | ×           | ×         | [file](/81.cpp)  | [challenge](https://projecteuler.net/problem=81)  |
+| 82               | ×           | ×         | [file](/82.cpp)  | [challenge](https://projecteuler.net/problem=82)  |
+| 83               | ×           | ×         | [file](/83.cpp)  | [challenge](https://projecteuler.net/problem=83)  |
+| 84               | ×           | ×         | [file](/84.cpp)  | [challenge](https://projecteuler.net/problem=84)  |
+| 85               | ×           | ×         | [file](/85.cpp)  | [challenge](https://projecteuler.net/problem=85)  |
+| 86               | ×           | ×         | [file](/86.cpp)  | [challenge](https://projecteuler.net/problem=86)  |
+| 87               | ×           | ×         | [file](/87.cpp)  | [challenge](https://projecteuler.net/problem=87)  |
+| 88               | ×           | ×         | [file](/88.cpp)  | [challenge](https://projecteuler.net/problem=88)  |
+| 89               | ×           | ×         | [file](/89.cpp)  | [challenge](https://projecteuler.net/problem=89)  |
+| 90               | ×           | ×         | [file](/90.cpp)  | [challenge](https://projecteuler.net/problem=90)  |
+| 91               | ×           | ×         | [file](/91.cpp)  | [challenge](https://projecteuler.net/problem=91)  |
+| 92               | ×           | ×         | [file](/92.cpp)  | [challenge](https://projecteuler.net/problem=92)  |
+| 93               | ×           | ×         | [file](/93.cpp)  | [challenge](https://projecteuler.net/problem=93)  |
+| 94               | ×           | ×         | [file](/94.cpp)  | [challenge](https://projecteuler.net/problem=94)  |
+| 95               | ×           | ×         | [file](/95.cpp)  | [challenge](https://projecteuler.net/problem=95)  |
+| 96               | ×           | ×         | [file](/96.cpp)  | [challenge](https://projecteuler.net/problem=96)  |
+| 97               | ×           | ×         | [file](/97.cpp)  | [challenge](https://projecteuler.net/problem=97)  |
+| 98               | ×           | ×         | [file](/98.cpp)  | [challenge](https://projecteuler.net/problem=98)  |
+| 99               | ×           | ×         | [file](/99.cpp)  | [challenge](https://projecteuler.net/problem=99)  |
+| 100              | ×           | ×         | [file](/100.cpp) | [challenge](https://projecteuler.net/problem=100) |

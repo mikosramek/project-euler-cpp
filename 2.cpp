@@ -12,5 +12,27 @@ using namespace std;
 
 int main() {
     // Complete the code.
+    int total = 0;
+    int a = 1;
+    int b = 1;
+    while (a < 4000000) {
+        int tempA = a;
+        a = a + b;
+        b = tempA;
+        if (a % 2 == 0) {
+            total += a;
+        }
+    }
+    cout << total << "\n";
     return 0;
 }
+
+/* 
+Well, this part is fairly okay to do, just write a function to count up in Fibonacci,
+and as you're going see if the value % 2, is 0. Then add that to the total. 
+
+The question is, is counting to ~4,000,000 going to take a long time? (while supposedly not!)
+
+I guess, the only reason this was challenging was because I've never written out how to calc the fibonacci sequence,
+and I wanted to logic it out by myself. The adding even digits was the easy part.
+ */
