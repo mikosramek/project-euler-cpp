@@ -1,8 +1,9 @@
 # project-euler-cpp
 
-https://projecteuler.net/archives
+https://projecteuler.net/
 
 ![](https://projecteuler.net/profile/mikosramek.png)
+[*](https://projecteuler.net/profile/mikosramek.png)
 
 ## Why?
 This is a repo for me to keep track of my progress through these challenges. To respect the rules, if I ever progres far enough, this will only contain challenges 1-100. I also hope to comment and document my learning / solutions in each file.
