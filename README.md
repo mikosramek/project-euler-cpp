@@ -7,11 +7,11 @@ https://projecteuler.net/
 
 ## How?
 ### Mac Terminal
-cd into challenges folder
+`cd` into challenges folder
 
 Run `g++ [challenge-file].cpp ./utils/basic-functions.cpp`
 
-Then `./a.out`
+Then just `./a.out`
 
 ### Other
 Compile in compiler of choice?

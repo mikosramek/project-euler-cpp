@@ -12,6 +12,10 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 using namespace std;
 
+
+// https://randerson112358.medium.com/palindrome-program-explained-510fd952baa has some great logic, and I'd suggest not
+// even looking at the code portion, but only the first few paragraphs
+
 bool isPalindrome(string number) {
     int length = number.length();
     if (length == 0 || length == 1) {
@@ -68,6 +72,7 @@ int main() {
     //    cout << (fmod(5.3,int(5.3))); - I can fmod a value with a casted version, to see if there's a remainder
 
     // Ran into an issue around string -> integer conversion, where "09" would become 9, and because that has a length of 1, it would pass the palindrome check
+    // so I had to make sure I was only using a number to iterate through, but not check
     //      cout << (isPalindrome(to_string(990999)));
 
     int firstPalindrome = findNextPalindrome(top);
