@@ -5,6 +5,17 @@ https://projecteuler.net/
 ![](https://projecteuler.net/profile/mikosramek.png)
 [*](https://projecteuler.net/profile/mikosramek.png)
 
+## How?
+### Mac Terminal
+cd into challenges folder
+
+Run `g++ [challenge-file].cpp ./utils/basic-functions.cpp`
+
+Then `./a.out`
+
+### Other
+Compile in compiler of choice?
+
 ## Why?
 This is a repo for me to keep track of my progress through these challenges. To respect the rules, if I ever progres far enough, this will only contain challenges 1-100. I also hope to comment and document my learning / solutions in each file.
 ## Completed Challenges
@@ -14,7 +25,7 @@ This is a repo for me to keep track of my progress through these challenges. To 
 | 1                | ✓           | ✓         | [file](challenges/1.cpp)   | [challenge](https://projecteuler.net/problem=1)   |
 | 2                | ✓           | ✓         | [file](challenges/2.cpp)   | [challenge](https://projecteuler.net/problem=2)   |
 | 3                | ✓           | ✓         | [file](challenges/3.cpp)   | [challenge](https://projecteuler.net/problem=3)   |
-| 4                | ✓           | ×         | [file](challenges/4.cpp)   | [challenge](https://projecteuler.net/problem=4)   |
+| 4                | ✓           | ✓         | [file](challenges/4.cpp)   | [challenge](https://projecteuler.net/problem=4)   |
 | 5                | ✓           | ×         | [file](challenges/5.cpp)   | [challenge](https://projecteuler.net/problem=5)   |
 | 6                | ×           | ×         | [file](challenges/6.cpp)   | [challenge](https://projecteuler.net/problem=6)   |
 | 7                | ×           | ×         | [file](challenges/7.cpp)   | [challenge](https://projecteuler.net/problem=7)   |
