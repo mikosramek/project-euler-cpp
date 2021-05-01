@@ -26,7 +26,7 @@ This is a repo for me to keep track of my progress through these challenges. To 
 | 2                | ✓           | ✓         | [file](challenges/2.cpp)   | [challenge](https://projecteuler.net/problem=2)   |
 | 3                | ✓           | ✓         | [file](challenges/3.cpp)   | [challenge](https://projecteuler.net/problem=3)   |
 | 4                | ✓           | ✓         | [file](challenges/4.cpp)   | [challenge](https://projecteuler.net/problem=4)   |
-| 5                | ✓           | ×         | [file](challenges/5.cpp)   | [challenge](https://projecteuler.net/problem=5)   |
+| 5                | ✓           | ✓         | [file](challenges/5.cpp)   | [challenge](https://projecteuler.net/problem=5)   |
 | 6                | ×           | ×         | [file](challenges/6.cpp)   | [challenge](https://projecteuler.net/problem=6)   |
 | 7                | ×           | ×         | [file](challenges/7.cpp)   | [challenge](https://projecteuler.net/problem=7)   |
 | 8                | ×           | ×         | [file](challenges/8.cpp)   | [challenge](https://projecteuler.net/problem=8)   |
