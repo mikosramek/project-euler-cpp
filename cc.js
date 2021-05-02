@@ -5,11 +5,13 @@ const path = require('path');
 const template = `/* 
 
 */
+
 #include <iostream>
 #include <cstdio>
 #include "utils/basic-functions.h"
 
 using namespace std;
+
 
 int main() {
     // Complete the code.
