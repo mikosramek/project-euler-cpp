@@ -7,6 +7,8 @@ const template = `/*
 */
 #include <iostream>
 #include <cstdio>
+#include "utils/basic-functions.h"
+
 using namespace std;
 
 int main() {
@@ -17,7 +19,7 @@ int main() {
 
 const createFile = (baseName) => {
   fs.writeFileSync(
-    `${path.resolve(__dirname)}/${baseName}.cpp`,
+    `${path.resolve(__dirname)}/challenges/${baseName}.cpp`,
     template,
     (err) => {
       if (err) throw err;
